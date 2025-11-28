@@ -1,0 +1,14 @@
+/Users/tomoch/RiderProjects/LODEE/LODEE/bin/Debug/net9.0/LODEE
+/Users/tomoch/RiderProjects/LODEE/LODEE/bin/Debug/net9.0/LODEE.deps.json
+/Users/tomoch/RiderProjects/LODEE/LODEE/bin/Debug/net9.0/LODEE.runtimeconfig.json
+/Users/tomoch/RiderProjects/LODEE/LODEE/bin/Debug/net9.0/LODEE.dll
+/Users/tomoch/RiderProjects/LODEE/LODEE/bin/Debug/net9.0/LODEE.pdb
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/LODEE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/LODEE.AssemblyInfoInputs.cache
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/LODEE.AssemblyInfo.cs
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/LODEE.csproj.CoreCompileInputs.cache
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/LODEE.dll
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/refint/LODEE.dll
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/LODEE.pdb
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/LODEE.genruntimeconfig.cache
+/Users/tomoch/RiderProjects/LODEE/LODEE/obj/Debug/net9.0/ref/LODEE.dll
